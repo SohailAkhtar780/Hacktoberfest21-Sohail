@@ -1,0 +1,18 @@
+Computer Networking Skills
+One of the most important skills to become an ethical hacker is networking skills
+Computer Skills
+Linux Skills
+Programming Skills
+Basic Hardware Knoweledge
+Reverse Engineering
+Cryptography Skills
+Database Skills
+hacking techniques that you and your employees should know about and take every possible step to avoid
+Phishing
+Bait and Switch Attack
+Key Logger
+Denial of Service (DoS\DDoS) Attacks
+ClickJacking Attacks
+Fake W.A.P
+Cookie Theft
+Viruses and Trojans
